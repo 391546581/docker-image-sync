@@ -1,0 +1,5 @@
+docker login --username=391546581@qq.com crpi-56ijcef2l61lt3ob.cn-shenzhen.personal.cr.aliyuncs.com
+
+docker pull crpi-56ijcef2l61lt3ob.cn-shenzhen.personal.cr.aliyuncs.com/blue4wang/rustdesk-rustdesk-server
+
+
