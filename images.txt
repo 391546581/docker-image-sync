@@ -2,5 +2,6 @@
 rustdesk/rustdesk-server:latest
 opensourceai/openjdk:8.0
 adoptopenjdk/openjdk8:latest
+corentinth/it-tools:latest
 
 # 此处一定要有一行空行
